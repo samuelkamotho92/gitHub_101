@@ -1,0 +1,1 @@
+// typescript is type sensitve and realys mostly on data types
